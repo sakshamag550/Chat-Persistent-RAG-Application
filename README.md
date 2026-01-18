@@ -1,4 +1,4 @@
-# 📚 MultiPDF Chat App
+# 📚 Chat Persistent RAG Application
 
 Interact with multiple PDF documents using natural language queries powered by AI.
 
@@ -35,8 +35,8 @@ The **MultiPDF Chat App** is a user-friendly application built with Streamlit th
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Abhiz2411/multipdf-chat-app.git
-cd multipdf-chat-app
+git clone git@github.com:sakshamag550/Chat-Persistent-RAG-Application
+cd Chat-Persistent-RAG-Application
 ```
 
 ### 2. Install Dependencies
