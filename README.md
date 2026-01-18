@@ -4,7 +4,7 @@ Interact with multiple PDF documents using natural language queries powered by A
 
 ## 🔍 Overview
 
-The **MultiPDF Chat App** is a user-friendly application built with Streamlit that allows users to upload and query multiple PDFs simultaneously. Leveraging advanced language models and vector search, it provides intelligent, context-aware responses based on your documents.
+The **Chat Persistent RAG Application** is a user-friendly application built with Streamlit that allows users to upload and query multiple PDFs simultaneously. Leveraging advanced language models and vector search, it provides intelligent, context-aware responses based on your documents.
 
 ![App Architecture](./docs/PDF-LangChain.jpg)
 
